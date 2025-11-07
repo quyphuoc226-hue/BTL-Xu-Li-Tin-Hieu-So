@@ -54,4 +54,5 @@ grid on;
 axis([0 50 -4 4])
 title('tin hieu dau ra');
 xlabel('thoi gian n');
+
 ylabel('bien doi');
